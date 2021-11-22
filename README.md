@@ -2,6 +2,7 @@
 
 - [Chapter 1](01.md)
 - [Chapter 2](02.md)
+- [Chapter 3](03.md)
 
 ### Note
 
