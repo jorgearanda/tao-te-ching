@@ -16,4 +16,15 @@ then distilling them into words that speak more clearly to me,
 for my own study.
 I am aware that the result may well deviate from the original meaning of the text.
 
-The translations I have consulted so far are from Gia-Fu Feng and Jane English, Ursula LeGuin, and Stephen Mitchell.
+The translations I have consulted so far are from:
+
+- Gia-Fu Feng and Jane English
+- Ursula LeGuin
+- Stephen Mitchell
+- John C.H. Wu
+- D.C. Lau
+- Wing-tsit Chan
+- Robert Henricks
+- Arthur Waley
+- Yutang Lin
+- Thomas Cleary
