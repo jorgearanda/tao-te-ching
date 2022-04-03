@@ -18,9 +18,6 @@ I am aware that the result may well deviate from the original meaning of the tex
 
 The translations I have consulted so far are from:
 
-- Gia-Fu Feng and Jane English
-- Ursula LeGuin
-- Stephen Mitchell
 - John C.H. Wu
 - D.C. Lau
 - Wing-tsit Chan
@@ -28,3 +25,15 @@ The translations I have consulted so far are from:
 - Arthur Waley
 - Yutang Lin
 - Thomas Cleary
+- Gia-Fu Feng and Jane English
+- Ursula LeGuin
+- Stephen Mitchell
+- J.H. McDonald
+
+The first eight translations are available as a single file [here](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf).
+
+The LeGuin translation is available [here](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf).
+
+The Mitchell translation is available [here](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf).
+
+The McDonald translation is available [here](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf).
