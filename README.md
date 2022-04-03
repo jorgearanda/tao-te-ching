@@ -34,6 +34,6 @@ The first eight translations are available as a single file [here](https://www.b
 
 The LeGuin translation is available [here](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf).
 
-The Mitchell translation is available [here](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf).
+The Mitchell translation is available [here](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/25851/files/2016/02/taoteching-Stephen-Mitchell-translation-v9deoq.pdf).
 
 The McDonald translation is available [here](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf).
