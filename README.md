@@ -29,6 +29,7 @@ The translations I have consulted so far are from:
 - Ursula LeGuin
 - Stephen Mitchell
 - J.H. McDonald
+- Red Pine
 
 The first eight translations are available as a single file [here](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf).
 
@@ -37,3 +38,5 @@ The LeGuin translation is available [here](http://www.sfhunyuan.com/images/TAO_T
 The Mitchell translation is available [here](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/25851/files/2016/02/taoteching-Stephen-Mitchell-translation-v9deoq.pdf).
 
 The McDonald translation is available [here](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf).
+
+The Red Pine translation is available [here](https://terebess.hu/english/tao/Taoteching_withCommentaries.pdf)
