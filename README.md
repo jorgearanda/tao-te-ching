@@ -7,6 +7,7 @@
 - [Chapter 5](05.md)
 - [Chapter 6](06.md)
 - [Chapter 7](07.md)
+- [Chapter 8](08.md)
 
 ### Note
 
