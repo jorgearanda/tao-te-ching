@@ -1,42 +1,31 @@
 # Tao Te Ching
 
-- [Chapter 1](01.md)
-- [Chapter 2](02.md)
-- [Chapter 3](03.md)
-- [Chapter 4](04.md)
-- [Chapter 5](05.md)
-- [Chapter 6](06.md)
-- [Chapter 7](07.md)
-- [Chapter 8](08.md)
-- [Chapter 9](09.md)
-- [Chapter 10](10.md)
-- [Chapter 11](11.md)
-- [Chapter 12](12.md)
-- [Chapter 13](13.md)
-- [Chapter 14](14.md)
-- [Chapter 15](15.md)
-- [Chapter 16](16.md)
-- [Chapter 17](17.md)
-- [Chapter 18](18.md)
-- [Chapter 19](19.md)
-- [Chapter 20](20.md)
-- [Chapter 21](21.md)
-- [Chapter 22](22.md)
+## Chapters
 
-### Note
+||||||
+|-|-|-|-|-|
+|[ 1](01.md)|[ 2](02.md)|[ 3](03.md)|[ 4](04.md)|[ 5](05.md)|
+|[ 6](06.md)|[ 7](07.md)|[ 8](08.md)|[ 9](09.md)|[10](10.md)|
+|[11](01.md)|[12](02.md)|[13](03.md)|[14](04.md)|[15](05.md)|
+|[16](06.md)|[17](07.md)|[18](08.md)|[19](09.md)|[20](20.md)|
+|[21](21.md)|[22](22.md)|
+
+
+## Translation Note
 
 This is a personal attempt at a translation of the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching).
 
 I do not speak Classical Chinese, nor am I a philosopher or theologian.
-I am merely comparing different translations
+I am merely comparing different translations into English
 to try to make sense of the underlying meaning,
-then distilling them into words that speak more clearly to me,
-for my own study.
-I am aware that the result may well deviate from the original meaning of the text.
+then distilling them into words that speak more clearly to me.
+The result may well deviate from the original meaning of the text,
+despite my intentions.
 
-The translations I have consulted so far are from:
+The translations I have consulted are from:
 
-- John C.H. Wu
+- Red Pine (available [here](https://terebess.hu/english/tao/Taoteching_withCommentaries.pdf); particularly useful due to its more literal approach and collection of commentaries)
+- John C.H. Wu (available, along with the next seven, [here](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf))
 - D.C. Lau
 - Wing-tsit Chan
 - Robert Henricks
@@ -44,17 +33,6 @@ The translations I have consulted so far are from:
 - Yutang Lin
 - Thomas Cleary
 - Gia-Fu Feng and Jane English
-- Ursula LeGuin
-- Stephen Mitchell
-- J.H. McDonald
-- Red Pine
-
-The first eight translations are available as a single file [here](https://www.bu.edu/religion/files/pdf/Tao_Teh_Ching_Translations.pdf).
-
-The LeGuin translation is available [here](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf).
-
-The Mitchell translation is available [here](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/25851/files/2016/02/taoteching-Stephen-Mitchell-translation-v9deoq.pdf).
-
-The McDonald translation is available [here](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf).
-
-The Red Pine translation is available [here](https://terebess.hu/english/tao/Taoteching_withCommentaries.pdf)
+- Ursula LeGuin (available [here](http://www.sfhunyuan.com/images/TAO_TE_CHING_-_LE_GUIN_edition.pdf))
+- Stephen Mitchell (available [here](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/25851/files/2016/02/taoteching-Stephen-Mitchell-translation-v9deoq.pdf))
+- J.H. McDonald (available [here](https://www.unl.edu/prodmgr/NRT/Tao%20Te%20Ching%20-%20trans.%20by%20J.H..%20McDonald.pdf))
